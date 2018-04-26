@@ -1,2 +1,3 @@
-# China-IndieGame-Wiki
-This is a Wiki or a book about how to Making IndieGame in China.
+# 中国独立游戏开发手册 
+> 要么`伟大`,要么`死亡`,你选哪边?
+-----
