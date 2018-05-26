@@ -10,31 +10,31 @@
 |[开发管理]
 |[宣发]
 
-## 游戏艺术综述<br>
+游戏艺术综述<br>
 
-## 独立游戏常见类型介绍
-* ### rouguelike<br>
-* ### arpg<br>
-* ### crpg<br>
-* ### stg<br>
-* ### avg<br>
-* ### fps<br>
-* ### slg<br>
-* ### ftg<br>
-* ### mug<br>
-## 常用游戏引擎<br>
-* ### Unity<br>
-* ### GameMaker<br>
-* ### RPGMaker<br>
-* ### AppGameKit<br>
-* ### Unreal<br>
-## 游戏叙事<br>
-* ### 叙事结构
+独立游戏常见类型介绍
+  * rouguelike<br>
+  * arpg<br>
+  * crpg<br>
+  * stg<br>
+  * avg<br>
+  * fps<br>
+  * slg<br>
+  * ftg<br>
+  * mug<br>
+常用游戏引擎<br>
+  * Unity<br>
+  * GameMaker<br>
+  * RPGMaker<br>
+  * AppGameKit<br>
+  * Unreal<br>
+游戏叙事<br>
+* 叙事结构
   * 语言叙事
   * 场景叙事
   * 电影化叙事
   * 碎片化叙事
-* ### 叙事技巧
+* 叙事技巧
   * 高质量的文本
   * 图像的变化对比
   * 塑造符合情境的场景氛围
@@ -42,16 +42,17 @@
   * 蒙太奇
   * 设计中的碎片信息
   * 留白
-## 流行游戏趋势<br>
   
-## 游戏文化社区<br>
+流行游戏趋势<br>
+  
+游戏文化社区<br>
 
-## 内容创建
+内容创建
 
-## 开发管理
-* ### 策划<br>
-* ### 团队组建<br>
-* ### 项目管理<br>
-## 宣发<br>
+开发管理
+  * 策划<br>
+  * 团队组建<br>
+  * 项目管理<br>
+宣发<br>
 # 完成进度
 # 资源下载
