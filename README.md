@@ -13,9 +13,14 @@
 游戏艺术综述<br>
 * 类型游戏介绍<br>
   * rouguelike<br>
-  * rpg<br>
+  * arpg<br>
   * crpg<br>
+  * stg<br>
+  * avg<br>
   * fps<br>
+  * slg<br>
+  * ftg<br>
+  * mug<br>
 * 游戏引擎<br>
   * Unity<br>
   * GameMaker<br>
