@@ -14,6 +14,8 @@
 * 类型游戏介绍<br>
   * rouguelike<br>
   * rpg<br>
+  * crpg<br>
+  * fps<br>
 * 游戏引擎<br>
 * 游戏叙事<br>
 * 流行游戏趋势<br>
