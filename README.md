@@ -73,6 +73,7 @@
       * Aseprite
       * 3dsMax
       * Maya
+      * MagicaVoxel 
   * 音乐
     * 风格
       * 8-Bit
