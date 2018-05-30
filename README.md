@@ -22,40 +22,42 @@
 ### 游戏艺术综述<br>
 
 
-### 独立游戏常见类型介绍
-  * rouguelike<br>
-  * arpg<br>
-  * crpg<br>
-  * stg<br>
-  * avg<br>
-  * sandBox<br>
-  * fps<br>
-  * slg<br>
-  * ftg<br>
-  * mug<br>
-  * mud<br>
+### 独立游戏常见类型介绍<br>
+  * rouguelike
+  * arpg
+  * crpg
+  * stg
+  * avg
+  * sandBox
+  * fps
+  * slg
+  * ftg
+  * mug
+  * mud
+  
 ### 常用游戏引擎<br>
-  * Unity<br>
-  * CoCos 2D<br>
-  * GameMakerStudio<br>
-  * RPGMaker<br>
-  * AppGameKit<br>
-  * Unreal<br>
+  * Unity
+  * CoCos 2D
+  * GameMakerStudio
+  * RPGMaker
+  * AppGameKit
+  * Unreal
+  * Godot
   
 ### 内容创建<br>
+  * 世界题材
+    * DnD世界观风格
+    * 中国风
+    * 和风
+    * 嘻哈风格
+    * 乡村，城镇风格
+    * 哥特与中世纪宗教风格
+    * 生化与克苏鲁风格
+    * 后启示录风格
+    * 工业与蒸汽朋克
+    * 网络与赛博朋克
+    * 废土与柴油朋克
   * 美术
-    * 题材风格
-      * DnD世界观风格
-      * 中国风
-      * 和风
-      * 嘻哈风格
-      * 乡村，城镇风格
-      * 哥特与中世纪宗教风格
-      * 生化与克苏鲁风格
-      * 后启示录风格
-      * 工业与蒸汽朋克
-      * 网络与赛博朋克
-      * 废土与柴油朋克
     * 技法风格
       * 像素风
       * 体素风
@@ -83,8 +85,6 @@
     * 工具
       * fl studio
       * audition
-  * 剧情
-    * //这一节在游戏叙事存在的基础上是否有存在的必要？？
    
 ### 玩法设计<br>
   * 机制设计
@@ -125,6 +125,8 @@
   * 面向对象思维
   * 数据库使用
   * 常用算法案例
+  * 插件开发
+  * 引擎开发
   
 ### 游戏软件工程<br>
   * 迭代式开发
