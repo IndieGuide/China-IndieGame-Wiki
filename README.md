@@ -86,6 +86,7 @@
     * 工具
       * fl studio
       * audition
+      * FamiTracker
    
 ### 玩法设计<br>
   * 机制设计
