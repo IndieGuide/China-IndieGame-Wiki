@@ -31,6 +31,7 @@
 #### 关卡生成系统
   毫无疑问，关卡生成系统是地牢类游戏的核心机制。事实上，如果你想提高自己的游戏编程能力，尝试去做一款Rouguelike游戏应该是你的首选。每一款成功的Rouguelike游戏背后都有一个巧妙而充满生机的房间生成系统，
 <div align=center><img width="300" height="300" src="https://img-blog.csdn.net/20161028230559575"/></div>
+
 ### 作品展示
 #### The Binding of Isaac
 #### Don't Starve
@@ -41,4 +42,4 @@
 * Rouguelite成为主流
 * 与Metroidvania的融合
 * 更好地画面表达
-* ·
+* 提早上架，持续更新
