@@ -40,6 +40,7 @@ Rouguelike游戏有三大主要标志性特征：**地图随机性**、**系统�
   毫无疑问，关卡生成系统是地牢类游戏的核心机制。事实上，如果你想提高自己的游戏编程能力，尝试去做一款Rouguelike游戏应该是你的首选。可以断言，每一款成功的Rouguelike游戏背后都有一个巧妙而充满生机的房间生成系统。<br>
   <div align=center><img width="300" height="300" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/dungeonMap.png"/></div>
   让我们来考虑一个传统地牢形态地图的实现，它应该包含以下要点：
+  
   * 一组相互连通的房间、门和通道
   * 一个地牢入口
   * 一个地牢出口
