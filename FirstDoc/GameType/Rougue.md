@@ -59,14 +59,19 @@ Rouguelike游戏有三大主要标志性特征：**地图随机性**、**系统�
 ### 作品展示
 #### The Binding of Isaac
 <div align=center><img width="640" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Isaac/1.jpg"/></div>
+
 #### Don't Starve
 <div align=center><img width="540" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Dont%20starve/1.png"/></div>
+
 #### Dead Cell
 <div align=center><img width="640" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Dead%20cells/1.jpg"/></div>
+
 #### Enter the gungeon
 <div align=center><img width="640" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Enter%20the%20gungeon/1.jpg"/></div>
+
 #### Faster Than Light
 <div align=center><img width="640" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Ftl/1.jpg"/></div>
+
 ### 发展趋势
 * Rouguelite成为主流
 * 与Metroidvania的融合
