@@ -57,7 +57,7 @@ Rouguelike游戏有三大主要标志性特征：**地图随机性**、**系统�
 
 
 ### 作品展示
-#### The Binding of Isaac
+#### <div align=center>The Binding of Isaac</div>
 <div align=center><img width="640" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Isaac/1.jpg"/></div>
 #### Don't Starve
 <div align=center><img width="540" height="360" src="https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Dont%20starve/1.png"/></div>
