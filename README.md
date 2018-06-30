@@ -32,6 +32,7 @@ good。
 
 ### 独立游戏常见类型介绍<br>
   * rouguelike
+  * sidescroller
   * metroidvania
   * arpg
   * crpg
