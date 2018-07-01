@@ -13,7 +13,6 @@ Castlevania（恶魔城）是Konami出品的知名游戏，无论是在日本还
 除此之外值得一提的是，月下夜想曲在地图设计上也大量的借鉴了银河战士的一些机制。比如房间的相互关联性，需要后期道具来通过的障碍。对银河战士的借鉴使得恶魔城系列站得高，看得远。成为了最负盛名的横板过关游戏系列。<br>
 <div align=center><img width=630 height=360 src='https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Castlevania/Castlevania_index.jpg'></div>
 
-
 ### 要素
 
 #### 来自Metroid的设计
