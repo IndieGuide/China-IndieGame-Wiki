@@ -26,5 +26,7 @@ FPS的起源可以追溯到始于1973年的迷宫战争《 Maze War》和1974年
 ## 多人游戏
 ## 免费游戏
 ## 极简画风
-### Superhot The FPS where time moves only when you move
+  在独立游戏制作中，由于预算等问题，很难完成像3A级别作品那样的场景，极简的Poly画风在某些情况下是非常适合独立开发者的。
+  ### Superhot The FPS where time moves only when you move
+
 ### 
