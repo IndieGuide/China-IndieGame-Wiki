@@ -19,14 +19,16 @@ FPS的起源可以追溯到始于1973年的迷宫战争《 Maze War》和1974年
 
 多个第一人称射击游戏，如反恐精英：全球攻势《Counter-Strike: Global Offensive》、彩虹六号：围攻《Tom Clancy's Rainbow Six: Siege》、守望先锋《Overwatch》成为了电子竞技比赛项目的的热门游戏。
 
-## 定义
-## 游戏设计
-## 战斗和升级
-## 关卡设计
-## 多人游戏
-## 免费游戏
-## 极简画风
+## FPS经典元素
+ * 武器
+ * UI
+ * 多人
+  
+
+## FPS独立游戏特性
+### 极简画风
   在独立游戏制作中，由于预算等问题，很难完成像3A级别作品那样的场景，极简的Poly画风在某些情况下是非常适合独立开发者的。
   ### Superhot The FPS where time moves only when you move
-
+### 全新的设计理念
+  
 ### 
