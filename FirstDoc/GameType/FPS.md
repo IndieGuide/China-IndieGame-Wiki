@@ -20,10 +20,12 @@ FPS的起源可以追溯到始于1973年的迷宫战争《 Maze War》和1974年
 多个第一人称射击游戏，如反恐精英：全球攻势《Counter-Strike: Global Offensive》、彩虹六号：围攻《Tom Clancy's Rainbow Six: Siege》、守望先锋《Overwatch》成为了电子竞技比赛项目的的热门游戏。
 
 ## FPS经典元素
- * 武器
- 酷酷酷酷酷
- * UI
- * 多人
+ ### 武器<br>
+ * 现实类武器
+ * 科幻类武器
+ * 魔幻类武器
+ ### UI
+ ### 多人
   
 
 ## FPS独立游戏特性
