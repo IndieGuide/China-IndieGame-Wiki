@@ -38,7 +38,7 @@ good。
   * crpg
   * stg
   * avg
-  * sandBox
+  * sandBox & survival & craft
   * fps
   * slg
   * ftg
