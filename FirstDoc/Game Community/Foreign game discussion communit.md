@@ -2,12 +2,6 @@
 
 A collection of game development forums:
 
-## general
-## engine specific
-## genre specific
-## international
-## game art
-
 ### Game Development Forums – General
 TIGSource Forums  
 IndieDB Forums  
@@ -40,14 +34,15 @@ BlitzMax – Official BlitzMax Forums
 Monkey X – Official Monkey X Forums 
 
 ### Game Development Forums – Genre Specific
-Shmups – SHMUP-DEV Forums
-Shmups – Shmups Forum
-Adventure – Adventure Game Studio
-RPG – RPG Maker Forums
-RPG – RPG Maker Net
-RPG – RPG Maker VX Ace Forum
-FreeGameDev Forums
-Game Development Forums – International
+Shmups – SHMUP-DEV Forums 
+Shmups – Shmups Forum 
+Adventure – Adventure Game Studio 
+RPG – RPG Maker Forums  
+RPG – RPG Maker Net 
+RPG – RPG Maker VX Ace Forum  
+FreeGameDev Forums  
+
+### Game Development Forums – International 
 Italy – Indievault
 Spain – Mediavida
 France – Indie Mag
