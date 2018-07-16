@@ -43,27 +43,27 @@ RPG – RPG Maker VX Ace Forum
 FreeGameDev Forums  
 
 ### Game Development Forums – International 
-Italy – Indievault
-Spain – Mediavida
-France – Indie Mag
-France – Indius
-Germany – Superlevel
-Germany – ZFX
-Germany – Spiele Programmierer
-Germany – Indie Arena
-Germany – gm-d (Game Maker)
-Sweden – IndieGameDev.se
-Russia – Gamedev.ru
-Poland – GMClan (Game Maker)
-Mexico – Club Desarrolladores de Videojuegos
-Brazil – GameDev Brazil
-South Africa – Make Games SA
-(Game) Art Forums
-Polycount Forums
-CG Society
-ConceptArt
-Game Artist Forums
-Pixel Joint Forums
-Pixelation Forums
-Big List of Video Game Forums
-Big List of Video Game Forums
+Italy – Indievault  
+Spain – Mediavida 
+France – Indie Mag  
+France – Indius 
+Germany – Superlevel  
+Germany – ZFX 
+Germany – Spiele Programmierer  
+Germany – Indie Arena 
+Germany – gm-d (Game Maker) 
+Sweden – IndieGameDev.se  
+Russia – Gamedev.ru 
+Poland – GMClan (Game Maker)  
+Mexico – Club Desarrolladores de Videojuegos  
+Brazil – GameDev Brazil 
+South Africa – Make Games SA  
+
+### (Game) Art Forums
+Polycount Forums  
+CG Society  
+ConceptArt  
+Game Artist Forums  
+Pixel Joint Forums  
+Pixelation Forums 
+
