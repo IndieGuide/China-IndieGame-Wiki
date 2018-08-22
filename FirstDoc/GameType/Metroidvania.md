@@ -9,6 +9,7 @@ Metroid(银河战士)一般被认为是Metroidvania流派中最具影响力的�
 而系列最巅峰的作品《超级银河战士》改变了同期横版过关游戏的通关乏味感，开放的地图和多种道具技能使得游戏拥有重复可玩性，精巧的地图设计和环境谜题，可以用不同方式击败的敌人，地图存档和一些需要解锁能力后再探索的区域大大提升了游戏性。让玩家处于  探索——困惑——顿悟——熟悉——新思路 的完美心流体验。<br>
 <div align=center><img width=600 height=360 src='https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Metroid/SMetroid_index.jpg'></div>
 #### Castlevania
+
 Castlevania（恶魔城）是Konami出品的知名游戏，无论是在日本还是在国内都有着巨大的影响力。特别是系列巅峰作————月下夜想曲。Metroidvania这个词便是从月下夜想曲开始流传的，也可以说它是真正意义上的集大成者。月下夜想曲继承了系列本身硬派富有挑战的战斗，又使用了一套复杂却耐玩的rpg系统，rpg要素的引入彻底改变了横板过关游戏“硬派”“依赖熟练度”的体验，使得策略和技巧变得一样重要。使用合理的技能搭配，形态，武器，来应对不同的敌人。这种改变类似与Rouguelike向Rouguelite的改变，既降低了游戏门槛又提高了乐趣，何乐而不为呢？<br>
 除此之外值得一提的是，月下夜想曲在地图设计上也大量的借鉴了银河战士的一些机制。比如房间的相互关联性，需要后期道具来通过的障碍。对银河战士的借鉴使得恶魔城系列站得高，看得远。成为了最负盛名的横板过关游戏系列。<br>
 <div align=center><img width=480 height=360 src='https://github.com/IndieGuide/ImagesRepo/blob/master/Images/Fromnet/Works%20Show/Castlevania/Castlevania_index.jpg'></div>
